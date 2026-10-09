@@ -1,0 +1,22 @@
+[
+  {"question": "What is the traditional setting for the ADX indicator?", "must_contain": ["14"], "reference": "The traditional setting for the ADX indicator is 14 time periods, though settings from 7 to 30 are also used."},
+  {"question": "Who developed the ADX indicator?", "must_contain": ["Wilder"], "reference": "The ADX was developed by the technical analyst Welles Wilder, originally for trading commodity futures."},
+  {"question": "Above what ADX reading is a market considered to be trending?", "must_contain": ["25"], "reference": "An ADX reading above 25 indicates a genuine trend; below 25 the market is considered ranging."},
+  {"question": "Who developed the TRIN indicator?", "must_contain": ["Richard Arms"], "reference": "The TRIN indicator, also called the ARMS index, was developed by Richard Arms."},
+  {"question": "What TRIN value indicates a balanced market?", "must_contain": ["1.0"], "reference": "A TRIN value of 1.00 indicates a balanced stock market that is neither overbought nor oversold."},
+  {"question": "Who developed the MACD indicator and when?", "must_contain": ["Gerald Appel", "1970"], "reference": "Gerald Appel developed the MACD in the latter part of the 1970s."},
+  {"question": "What is the minimum denomination of commercial paper?", "must_contain": ["100,000"], "reference": "Commercial paper is issued in denominations of $100,000 and above."},
+  {"question": "Who insures certificates of deposit?", "must_contain": ["FDIC"], "reference": "CDs are insured by the Federal Deposit Insurance Corporation (FDIC)."},
+  {"question": "Which company is the largest ETF manager by assets under management?", "must_contain": ["BlackRock"], "reference": "BlackRock is the largest ETF management company by assets under management, followed by Vanguard."},
+  {"question": "What is another name for a pin bar candlestick?", "must_contain": ["hammer"], "reference": "The pin bar is also known as a hammer."},
+  {"question": "How long should a pin bar's tail be compared to its body?", "must_contain": ["three"], "reference": "A pin bar's tail should be at least two to three times longer than the candlestick body."},
+  {"question": "How does short selling work?", "must_contain": ["borrow"], "reference": "Short selling means borrowing shares from a broker, selling them, and later buying them back at a lower price to return to the broker, keeping the difference."},
+  {"question": "What does a higher P/E ratio indicate?", "must_contain": ["grow"], "reference": "A higher P/E ratio indicates investors are willing to pay more per share because they expect the company to grow and the stock price to rise."},
+  {"question": "In what year was The Complete Guide to Trading copyrighted?", "must_contain": ["2018"], "reference": "The guide is copyright 2018 CFI Education Inc."},
+  {"question": "How does Alice meet the Mad Hatter?", "must_contain": ["tea"], "reference": "Alice meets the Mad Hatter at a tea party at the March Hare's house, with the March Hare and the Dormouse."},
+  {"question": "What riddle does the Hatter ask Alice?", "must_contain": ["raven", "writing-desk"], "reference": "The Hatter asks Alice: Why is a raven like a writing-desk?"},
+  {"question": "What is the company's vacation policy?", "must_contain": [], "reference": "Not covered by the documents."},
+  {"question": "Who is Harry Potter?", "must_contain": [], "reference": "Not covered by the documents."},
+  {"question": "What is the capital of France?", "must_contain": [], "reference": "Not covered by the documents."},
+  {"question": "How do I bake sourdough bread?", "must_contain": [], "reference": "Not covered by the documents."}
+]
